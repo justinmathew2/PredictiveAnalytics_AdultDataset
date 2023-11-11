@@ -27,4 +27,4 @@ To reproduce the analysis, follow these steps:
 3. Run the Jupyter notebook:
 
    ```bash
-   jupyter notebook notebooks/Data_Exploration.ipynb
+   jupyter notebook notebooks/Income_Prediction_Analysis.ipynb
